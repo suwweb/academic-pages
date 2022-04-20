@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Weijie J. Su
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Department of Statistics and Data Science, the Wharton School, University of Pennsylvania
+  url: https://statistics.wharton.upenn.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Hi, I am an Assistant Professor in the Wharton Statistics and Data Science Department and in the Department of Computer and Information Science, at the University of Pennsylvania. I serve as a co-director of Penn Research in Machine Learning. Prior to joining Penn in Summer 2016, I obtained my Ph.D. from Stanford University in 2016, under the supervision of Emmanuel Candès. I received my bachelor's degree from Peking University in 2011.
 
 # Interests to show in About widget
 interests:
