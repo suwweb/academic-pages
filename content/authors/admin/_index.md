@@ -14,13 +14,13 @@ organizations:
   url: https://statistics.wharton.upenn.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hi, I am an Assistant Professor in the Wharton Statistics and Data Science Department and in the Department of Computer and Information Science, at the University of Pennsylvania. I serve as a co-director of Penn Research in Machine Learning. Prior to joining Penn in Summer 2016, I obtained my Ph.D. from Stanford University in 2016, under the supervision of Emmanuel Candès. I received my bachelor's degree from Peking University in 2011.
+bio: Hi, I am an Associate Professor in the Wharton Statistics and Data Science Department and in the Department of Computer and Information Science, at the University of Pennsylvania. I serve as a co-director of Penn Research in Machine Learning. Prior to joining Penn in Summer 2016, I obtained my Ph.D. from Stanford University in 2016, under the supervision of Emmanuel Candès. I received my bachelor's degree from Peking University in 2011.
 
 # Interests to show in About widget
-interests:
+<!-- interests:
 - Artificial Intelligence
 - Computational Linguistics
-- Information Retrieval
+- Information Retrieval -->
 
 # Education to show in About widget
 education:
@@ -69,4 +69,5 @@ highlight_name: true
 
 Hi, I am an Assistant Professor in the Wharton Statistics and Data Science Department and in the Department of Computer and Information Science, at the University of Pennsylvania. I serve as a co-director of Penn Research in Machine Learning. Prior to joining Penn in Summer 2016, I obtained my Ph.D. from Stanford University in 2016, under the supervision of Emmanuel Candès. I received my bachelor's degree from Peking University in 2011.
  
+ <p><b>Website under construction</b>
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
