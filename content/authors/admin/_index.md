@@ -36,7 +36,7 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
+<!-- social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
@@ -51,7 +51,7 @@ social:
   link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/ -->
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -69,4 +69,4 @@ highlight_name: true
 
 Hi, I am an Assistant Professor in the Wharton Statistics and Data Science Department and in the Department of Computer and Information Science, at the University of Pennsylvania. I serve as a co-director of Penn Research in Machine Learning. Prior to joining Penn in Summer 2016, I obtained my Ph.D. from Stanford University in 2016, under the supervision of Emmanuel Candès. I received my bachelor's degree from Peking University in 2011.
  
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
