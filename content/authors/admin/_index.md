@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Weijie J. Su
+title: Weijie Su
 
 # Is this the primary user of the site?
 superuser: true
